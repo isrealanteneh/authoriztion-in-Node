@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "israel",
+      "role": "student",
+      "grade": "A+"
+    },
+    {
+      "id": 2,
+      "name": "melkamu",
+      "role": "student",
+      "grade": "A"
+    },
+    {
+      "id": 3,
+      "name": "kaleab",
+      "role": "student",
+      "grade": "A"
+    },
+    {
+      "id": 4,
+      "name": "Anteneh",
+      "role": "student",
+      "grade": "A"
+    }
+  ]
+}
