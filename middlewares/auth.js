@@ -6,7 +6,7 @@ const authorize = (access) => {
     if (access.includes(userRole)) {
       next();
     } else {
-      return res.status(402).send("Sorry your are not authorized!");
+      return res.status(404).send("Sorry your are not authorized!");
     }
   };
 };
